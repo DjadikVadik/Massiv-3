@@ -1,0 +1,3 @@
+﻿  Igruha.cpp
+C:\Users\User\Desktop\C++\дом задания\домашняя работа 12\Igruha\Igruha.cpp(698,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Igruha.vcxproj -> C:\Users\User\Desktop\C++\дом задания\домашняя работа 12\Igruha\x64\Debug\Igruha.exe
